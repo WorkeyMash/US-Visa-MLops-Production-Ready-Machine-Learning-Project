@@ -6,15 +6,15 @@ plotly
 seaborn
 scipy
 scikit-learn
-imbalanced-learn
+imblearn
 xgboost
 catboost
 pymongo
-# from_root -- ensure this is a local module or remove if not needed
+from_root
 evidently==0.2.8
 dill
 PyYAML
-# neuro_mf -- verify source
+neuro_mf
 boto3
 mypy-boto3-s3
 botocore
